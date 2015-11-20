@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Maker 3.7 - JRE"/>
+	<classpathentry kind="lib" path="C:/Users/otavio.ribeiro/Desktop/DICOM/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/otavio.ribeiro/Desktop/DICOM/dcm4che-core-2.0.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/otavio.ribeiro/Desktop/DICOM/dcm4che-core-3.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/otavio.ribeiro/Desktop/DICOM/dcm4che-image-3.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/otavio.ribeiro/Desktop/DICOM/dcm4che-imageio-3.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/otavio.ribeiro/Desktop/DICOM/dcm4che-imageio-rle-3.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/otavio.ribeiro/Desktop/DICOM/dcm4che-tool-dcm2xml-2.0.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/otavio.ribeiro/Desktop/DICOM/ExportaArquivosDICOM.jar"/>
+	<classpathentry kind="lib" path="C:/Users/otavio.ribeiro/Desktop/DICOM/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/otavio.ribeiro/Desktop/DICOM/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/otavio.ribeiro/Desktop/DICOM/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
